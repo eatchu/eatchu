@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dueui, Park</h1>
 
-<!--
-**eatchu/eatchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Scientist/AI Researcher</h3>
 
-Here are some ideas to get you started:
+👋 Hi! Welcome to my GitHub place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👯 Jobs
+- NTELS IoT Division/AI Team
+
+
+### 👽 Certificate
+- 정보처리기사
+- 데이터분석준전문가(ADsP)
+- SQL개발자(SQLD)
+- 화학분석기사
+
+
+### 🌱 Languages
+ - Python (Intermediate)
+ - R (Intermediate)
+ - Tensorflow (Intermediate)
+ - Pytorch (Intermediate)
+ - Java (Intermediate)
+ - SQL/HiveQL (Intermediate)
+ - Spark (Intermediate)
+ - Linux (Intermediate)
+
