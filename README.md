@@ -21,8 +21,7 @@
  - R (Intermediate)
  - Tensorflow (Intermediate)
  - Pytorch (Intermediate)
- - Java (Intermediate)
- - SQL/HiveQL (Intermediate)
+ - SQL (Intermediate)
  - Spark (Intermediate)
  - Linux (Intermediate)
 
