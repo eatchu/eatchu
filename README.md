@@ -30,4 +30,4 @@
 <h2 align="center"> <contact to me> </h2>
 
 <a href="mailto:hdy2596@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hdy2596@gmail.com"/></a>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eatchu.tistory.com/)](https://eatchu.tistory.com/)
+
