@@ -28,5 +28,5 @@
 <h2 align="center"> <contact to me> </h2>
 
 <a href="mailto:hdy2596@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hdy2596@gmail.com"/></a>
-<a href="https://eatchu.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://eatchu.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tingiverse&logoColor=white"/></a>
   
