@@ -7,9 +7,6 @@
 👋 Hi! Welcome to my GitHub place.
 
 
-### 👯 Jobs
-- NTELS IoT Division/AI Team
-
 
 ### 👽 Certificate
 - 정보처리기사
@@ -31,4 +28,5 @@
 <h2 align="center"> <contact to me> </h2>
 
 <a href="mailto:hdy2596@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hdy2596@gmail.com"/></a>
+ <a href="eatchu.tistory.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hdy2596@gmail.com"/></a>
 
