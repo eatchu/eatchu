@@ -36,7 +36,6 @@ On this github, personal notebooks that I have studied in the past are uploaded.
  - Tensorflow (Intermediate)
  - Pytorch (Intermediate)
  - SQL (Intermediate)
- - Spark (Intermediate)
  - Linux (Intermediate)
 
 <h2 align="center"> <contact to me> </h2>
