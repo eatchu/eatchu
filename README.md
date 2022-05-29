@@ -4,7 +4,10 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Featchu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
-👋 Hi! Welcome to my GitHub place.
+👋 Hi! Welcome to my GitHub place. <br>
+I am a data scientist working in the AI team. <br>
+Statistical-based data analysis and ML/DL modeling are the main tasks. <br>
+On this github, personal notebooks that I have studied in the past are uploaded.
 
 
 ### 🔭 Project
