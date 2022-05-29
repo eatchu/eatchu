@@ -10,6 +10,7 @@ Statistical-based data analysis and ML/DL modeling are the main tasks. <br>
 On this github, personal notebooks that I have studied in the past are uploaded.
 
 
+
 ### 🔭 Project
 - [SKT] B2B 5G SA Slice Quality Assurance Technology Development Project
    - qoe value **anomaly detection** using network data
