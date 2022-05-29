@@ -9,9 +9,12 @@
 
 ### 🔭 Project
 - [SKT] B2B 5G SA Slice Quality Assurance Technology Development Project
+   - qoe value **anomaly detection** using network data
 - [Serveone] Demand Forecasting for Proper Inventory Management PoC
 - [Serveone] Implementation of analysis tasks to advance Data Analytics
-- [KODACO] AI Smart Factory Construction Support Project
+   - Perform **sales estimation** and **demand forecasting** tasks using B2B sales data
+- [KODACO] AI Smart Factory Construction Support Project 
+   - **Prediction of product defects** using MCT signal data
 - [SKT] NSA-ITM advancement
 
 
