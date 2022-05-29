@@ -7,19 +7,20 @@
 👋 Hi! Welcome to my GitHub place. <br>
 I am a data scientist working in the AI team. <br>
 Statistical-based data analysis and ML/DL modeling are the main tasks. <br>
-On this github, personal notebooks that I have studied in the past are uploaded.
+On this github, personal notebooks that I have studied in the past are uploaded.<br>
+If you are interested in my GitHub, please visit Tistory through the link below.
 
 
 
 ### 🔭 Project
-- [SKT] B2B 5G SA Slice Quality Assurance Technology Development Project
+1. [SKT] B2B 5G SA Slice Quality Assurance Technology Development Project
    - qoe value **anomaly detection** using network data
-- [Serveone] Demand Forecasting for Proper Inventory Management PoC
-- [Serveone] Implementation of analysis tasks to advance Data Analytics
+2. [Serveone] Demand Forecasting for Proper Inventory Management PoC
+3. [Serveone] Implementation of analysis tasks to advance Data Analytics
    - Perform **sales estimation** and **demand forecasting** tasks using B2B sales data
-- [KODACO] AI Smart Factory Construction Support Project 
+4. [KODACO] AI Smart Factory Construction Support Project 
    - **Prediction of product defects** using MCT signal data
-- [SKT] NSA-ITM advancement
+5. [SKT] NSA-ITM advancement
 
 
 ### 👽 Certificate
