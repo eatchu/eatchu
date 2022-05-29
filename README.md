@@ -8,11 +8,11 @@
 
 
 ### 🔭 Project
-[SKT] B2B 5G SA Slice Quality Assurance Technology Development Project
-[Serveone] Demand Forecasting for Proper Inventory Management PoC
-[Serveone] Implementation of analysis tasks to advance Data Analytics
-[KODACO] AI Smart Factory Construction Support Project
-[SKT] NSA-ITM advancement
+- [SKT] B2B 5G SA Slice Quality Assurance Technology Development Project
+- [Serveone] Demand Forecasting for Proper Inventory Management PoC
+- [Serveone] Implementation of analysis tasks to advance Data Analytics
+- [KODACO] AI Smart Factory Construction Support Project
+- [SKT] NSA-ITM advancement
 
 
 ### 👽 Certificate
